@@ -396,7 +396,7 @@ C++          ████████░░░░░░░░░░░░░░�
 
 <div align="center">
   
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="25" height="25"> **"Life is a continuous deployment - keep pushing updates!"** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="25" height="25">
+### 🌟 **"Life is a continuous deployment - keep pushing updates!"** 🌟
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
 
