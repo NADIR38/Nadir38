@@ -8,6 +8,13 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+<!-- 🖼️ Personal Photo or Avatar -->
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/104628832?v=4" alt="NADIR Jamal Avatar" width="160" style="border-radius: 50%; border: 3px solid #FF6B6B;" />
+</div>
+
+---
+
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="35" height="35"> **About Me**
 
 ```javascript
@@ -48,6 +55,11 @@ console.log("Welcome to my profile! 🌟");
 
 </div>
 
+<!-- 🖼️ Tech Collage -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/4e/2b/6b/4e2b6b6f9b7c47b1e2a6b3f7cd9e7b7b.jpg" alt="Tech Collage" width="80%" style="border-radius: 15px; margin: 18px 0;" />
+</div>
+
 <div align="center">
 <table>
 <tr>
@@ -64,6 +76,9 @@ Frameworks:
   - Bootstrap 🎯
   - AdminLTE 📊
 ```
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" />
 
 </td>
 <td valign="top" width="33%">
@@ -79,6 +94,9 @@ Frameworks:
   - ASP.NET Core 🚀
   - WinForms 🪟
 ```
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" />
 
 </td>
 <td valign="top" width="33%">
@@ -93,6 +111,8 @@ Skills:
   - Query Optimization 📈
   - Database Design 🏗️
 ```
+<img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968369.png" width="40" />
 
 </td>
 </tr>
@@ -146,6 +166,9 @@ Skills:
 - Implemented admin dashboard and analytics modules  
 - Built role-based authentication and event logic
 
+<!-- 🖼️ Project Screenshot -->
+<img src="https://raw.githubusercontent.com/NADIR38/ItecWebApp/main/docs/screenshots/dashboard.png" alt="ITEC Management System Screenshot" width="90%" style="margin:10px 0;" />
+
 </div>
 </td>
 <td width="50%">
@@ -169,6 +192,9 @@ Skills:
 - Led WinForms UI/UX and barcode integration  
 - Developed real-time stock & reporting modules  
 - Contributed MySQL query optimization and multi-user features
+
+<!-- 🖼️ Project Screenshot -->
+<img src="https://raw.githubusercontent.com/javairiaqasim24/Tech-Store/main/screenshots/inventory.png" alt="Tech-Store Screenshot" width="90%" style="margin:10px 0;" />
 
 </div>
 </td>
@@ -196,6 +222,9 @@ Skills:
 - Implemented automated billing and customer portal  
 - Managed repair status logic and parts tracking
 
+<!-- 🖼️ Project Screenshot -->
+<img src="https://raw.githubusercontent.com/NADIR38/Poultry-Farm/main/docs/screenshot.png" alt="Poultry Farm POS Screenshot" width="90%" style="margin:10px 0;" />
+
 </div>
 </td>
 <td width="50%">
@@ -219,6 +248,9 @@ Skills:
 - Developed both desktop and web modules  
 - Led design for inventory and customer management  
 - Built sales tracking features and reporting dashboards
+
+<!-- 🖼️ Project Screenshot -->
+<img src="https://raw.githubusercontent.com/NADIR38/fertilizer/main/docs/screenshot.png" alt="Agricultural POS System Screenshot" width="90%" style="margin:10px 0;" />
 
 </div>
 </td>
@@ -283,6 +315,10 @@ me.say_hi()
   "music": "Lo-fi while coding 🎵"
 }
 ```
+<img src="https://cdn-icons-png.flaticon.com/512/3062/3062634.png" width="36" title="Gaming" />
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="36" title="Coding" />
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="36" title="Learning" />
+<img src="https://cdn-icons-png.flaticon.com/512/727/727245.png" width="36" title="Music" />
 
 </td>
 <td align="center" width="50%">
@@ -296,6 +332,10 @@ me.say_hi()
   "automation": "Work smarter 🔧"
 }
 ```
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712038.png" width="36" title="AI" />
+<img src="https://cdn-icons-png.flaticon.com/512/4144/4144899.png" width="36" title="Cloud" />
+<img src="https://cdn-icons-png.flaticon.com/512/853/853987.png" width="36" title="Game Dev" />
+<img src="https://cdn-icons-png.flaticon.com/512/3103/3103453.png" width="36" title="Automation" />
 
 </td>
 </tr>
@@ -327,6 +367,9 @@ me.say_hi()
 
 ### 💬 *"In code we trust, in bugs we debug!"* 🐛✨
 
+<!-- 🖼️ Social Banner -->
+<img src="https://user-images.githubusercontent.com/73097560/115836994-2a5a5d80-a44b-11eb-8f7e-2d7e9c1c0e9c.gif" width="80%" style="margin:15px 0;" />
+
 </div>
 
 ---
@@ -341,6 +384,11 @@ CSS/HTML     ████████████░░░░░░░░░░�
 SQL          ██████████░░░░░░░░░░░░░░░░░░░░░░   30%
 C++          ████████░░░░░░░░░░░░░░░░░░░░░░░░   25%
 ```
+
+<!-- 🖼️ Coding Meme/Fun -->
+<div align="center">
+  <img src="https://i.imgur.com/7k6rEwA.gif" alt="Coding Meme" width="60%" style="margin:18px 0;" />
+</div>
 
 ---
 
