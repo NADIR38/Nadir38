@@ -1,4 +1,4 @@
-# <div align="center">🌟 **NADIR** 🌟</div>
+# <div align="center">🌟 **NADIR Jamal** 🌟</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Passionate+Software+Developer;💻+Computer+Science+Student;🎯+Backend+%26+Frontend+Enthusiast;✨+Always+Learning+New+Technologies!;🌟+Building+Amazing+Projects!&font=Orbitron&center=true&width=800&height=80&duration=3000&pause=1000&color=FF6B6B&size=25&weight=700" alt="Typing Animation" />
@@ -11,7 +11,7 @@
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="35" height="35"> **About Me**
 
 ```javascript
-const NADIR38 = {
+const NADIR = {
     name: "NADIR",
     title: "Full-Stack Developer & CS Student",
     location: "Lahore, Pakistan 🇵🇰",
