@@ -177,16 +177,16 @@ Skills:
 <td width="50%">
 <div align="center">
 
-<a href="https://github.com/NADIR38/Services-Repair-Module" target="_blank">
+<a href="https://github.com/NADIR38/Poultry-Farm" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=Services-Repair-Module&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
 </a>
 
-### 🔧 <a href="https://github.com/NADIR38/Services-Repair-Module" target="_blank">Services & Repair Module</a>
+### 🔧 <a href="https://github.com/NADIR38/Poultry-Farm" target="_blank">Poultary Farm Pos</a>
 ```diff
-+ Device Management System
-+ Track repairs & parts inventory
++ Manage Chicks and mortality
++ Manage feed and track feed usage
 + Automated billing system
-+ Customer communication portal
++ Selling Chicks
 + Workflow optimization
 
 ! Tech Stack: ASP.NET Core, MySQL, AdminLTE
@@ -201,7 +201,7 @@ Skills:
 <td width="50%">
 <div align="center">
 
-<a href="https://github.com/NADIR38/fertilizers" target="_blank">
+<a href="https://github.com/NADIR38/fertilizer" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=Agricultural-POS-System&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
 </a>
 
