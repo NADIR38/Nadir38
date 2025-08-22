@@ -389,9 +389,8 @@ C++          ████████░░░░░░░░░░░░░░�
 
 <!-- 🖼️ Coding Meme/Fun -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding Meme" width="60%" style="margin:18px 0;" />
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" alt="Happy Coding Meme" width="60%" style="margin:18px 0;" />
 </div>
-
 ---
 
 <div align="center">
