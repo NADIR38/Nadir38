@@ -126,9 +126,11 @@ Skills:
 <td width="50%">
 <div align="center">
 
+<a href="https://github.com/NADIR38/ITEC-Management-System" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=ITEC-Management-System&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
+</a>
 
-### 🏆 **ITEC Management System**
+### 🏆 <a href="https://github.com/NADIR38/ITEC-Management-System" target="_blank">ITEC Management System</a>
 ```diff
 + Event & Competition Management Platform
 + Multi-event registration system  
@@ -138,15 +140,22 @@ Skills:
 
 ! Tech Stack: C#, MySQL, HTML/CSS, JS
 ```
+**My Contributions:**  
+- Architected the backend using ASP.NET Core  
+- Designed and optimized MySQL database schema  
+- Implemented admin dashboard and analytics modules  
+- Built role-based authentication and event logic
 
 </div>
 </td>
 <td width="50%">
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=[Computer-Shop-Inventory](https://github.com/javairiaqasim24/Tech-Store)&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
+<a href="https://github.com/javairiaqasim24/Tech-Store" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=javairiaqasim24&repo=Tech-Store&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
+</a>
 
-### 🛒 **Computer Shop Inventory**
+### 🛒 <a href="https://github.com/javairiaqasim24/Tech-Store" target="_blank">Computer Shop Inventory</a>
 ```diff
 + Barcode-Based Inventory Management
 + Real-time stock tracking
@@ -156,6 +165,10 @@ Skills:
 
 ! Tech Stack: C#, WinForms, MySQL
 ```
+**My Contributions:**  
+- Led WinForms UI/UX and barcode integration  
+- Developed real-time stock & reporting modules  
+- Contributed MySQL query optimization and multi-user features
 
 </div>
 </td>
@@ -164,9 +177,11 @@ Skills:
 <td width="50%">
 <div align="center">
 
+<a href="https://github.com/NADIR38/Services-Repair-Module" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=Services-Repair-Module&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
+</a>
 
-### 🔧 **Services & Repair Module**
+### 🔧 <a href="https://github.com/NADIR38/Services-Repair-Module" target="_blank">Services & Repair Module</a>
 ```diff
 + Device Management System
 + Track repairs & parts inventory
@@ -176,15 +191,21 @@ Skills:
 
 ! Tech Stack: ASP.NET Core, MySQL, AdminLTE
 ```
+**My Contributions:**  
+- Full-stack module development (backend & frontend)  
+- Implemented automated billing and customer portal  
+- Managed repair status logic and parts tracking
 
 </div>
 </td>
 <td width="50%">
 <div align="center">
 
+<a href="https://github.com/NADIR38/Agricultural-POS-System" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=Agricultural-POS-System&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
+</a>
 
-### 🌾 **Agricultural POS Systems**  
+### 🌾 <a href="https://github.com/NADIR38/Agricultural-POS-System" target="_blank">Agricultural POS Systems</a>
 ```diff
 + Fertilizer & Poultry Management
 + Dual-platform (Web & Desktop)
@@ -194,6 +215,10 @@ Skills:
 
 ! Tech Stack: C#, Python, MySQL
 ```
+**My Contributions:**  
+- Developed both desktop and web modules  
+- Led design for inventory and customer management  
+- Built sales tracking features and reporting dashboards
 
 </div>
 </td>
@@ -297,7 +322,7 @@ me.say_hi()
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=FF6B6B)](https://github.com/NADIR38)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=FF6B6B)](https://www.linkedin.com/in/nadir-jamal-6b5833370/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF6B6B)](jamalnadir7778@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF6B6B)](mailto:jamalnadir7778@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&color=FF6B6B)](https://685b7dbaacf12c1d1241cc28--loquacious-pika-849dea.netlify.app/)
 
 ### 💬 *"In code we trust, in bugs we debug!"* 🐛✨
