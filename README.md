@@ -178,12 +178,12 @@ Skills:
 <div align="center">
 
 <a href="https://github.com/NADIR38/Poultry-Farm" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=Services-Repair-Module&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=Poultry-Farm&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
 </a>
 
-### 🔧 <a href="https://github.com/NADIR38/Poultry-Farm" target="_blank">Poultary Farm Pos</a>
+### 🔧 <a href="https://github.com/NADIR38/Poultry-Farm" target="_blank">Poultry Farm POS</a>
 ```diff
-+ Manage Chicks and mortality
++ Manage Chicks and Mortality
 + Manage feed and track feed usage
 + Automated billing system
 + Selling Chicks
@@ -205,7 +205,7 @@ Skills:
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=Agricultural-POS-System&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
 </a>
 
-### 🌾 <a href="https://github.com/NADIR38/Agricultural-POS-System" target="_blank">Agricultural POS Systems</a>
+### 🌾 <a href="https://github.com/NADIR38/fertilizer" target="_blank">Agricultural POS System</a>
 ```diff
 + Fertilizer & Poultry Management
 + Dual-platform (Web & Desktop)
