@@ -59,7 +59,7 @@ Languages:
   - HTML5 🌐
   - CSS3 🎨  
   - JavaScript ⚡
-  
+
 Frameworks:
   - Bootstrap 🎯
   - AdminLTE 📊
@@ -74,7 +74,7 @@ Languages:
   - C# 💎
   - Python 🐍
   - C++ ⚡
-  
+
 Frameworks:
   - ASP.NET Core 🚀
   - WinForms 🪟
@@ -88,7 +88,7 @@ Frameworks:
 Systems:
   - MySQL 🐬
   - SQLite 📋
-  
+
 Skills:
   - Query Optimization 📈
   - Database Design 🏗️
@@ -127,10 +127,10 @@ Skills:
 <div align="center">
 
 <a href="https://github.com/NADIR38/ItecWebApp" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=ITEC-Management-System&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=ItecWebApp&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
 </a>
 
-### 🏆 <a href="https://github.com/NADIR38/ITEC-Management-System" target="_blank">ITEC Management System</a>
+### 🏆 <a href="https://github.com/NADIR38/ItecWebApp" target="_blank">ITEC Management System</a>
 ```diff
 + Event & Competition Management Platform
 + Multi-event registration system  
@@ -201,7 +201,7 @@ Skills:
 <td width="50%">
 <div align="center">
 
-<a href="https://github.com/NADIR38/fertilizer" target="_blank">
+<a href="https://github.com/NADIR38/Agricultural-POS-System" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=Agricultural-POS-System&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
 </a>
 
