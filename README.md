@@ -9,9 +9,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- ✅ FIXED Avatar -->
+<!-- 🖼️ Animated Pixel Coder GIF (Option 4) -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/104628832" alt="NADIR Jamal Avatar" width="160" style="border-radius: 50%; border: 3px solid #FF6B6B;" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="160" />
 </div>
 
 ---
