@@ -1,16 +1,17 @@
 # <div align="center">🌟 **NADIR JAMAL** 🌟</div>
 
+<!-- ✅ FIXED Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Passionate+Software+Developer;💻+Computer+Science+Student;🎯+Backend+%26+Frontend+Enthusiast;✨+Always+Learning+New+Technologies!;🌟+Building+Amazing+Projects!&font=Orbitron&center=true&width=800&height=80&duration=3000&pause=1000&color=FF6B6B&size=25&weight=700" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=🚀+Passionate+Software+Developer;💻+Computer+Science+Student;🎯+Backend+%26+Frontend+Enthusiast;✨+Always+Learning+New+Technologies!;🌟+Building+Amazing+Projects!&font=Orbitron&center=true&width=800&height=80&duration=3000&pause=1000&color=FF6B6B&size=25&weight=700" alt="Typing Animation" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- 🖼️ Personal Photo or Avatar -->
+<!-- ✅ FIXED Avatar -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/104628832?v=4" alt="NADIR Jamal Avatar" width="160" style="border-radius: 50%; border: 3px solid #FF6B6B;" />
+  <img src="https://avatars.githubusercontent.com/u/104628832" alt="NADIR Jamal Avatar" width="160" style="border-radius: 50%; border: 3px solid #FF6B6B;" />
 </div>
 
 ---
@@ -30,6 +31,7 @@ const NADIR = {
 };
 
 console.log("Welcome to my profile! 🌟");
+
 ```
 
 <div align="center">
