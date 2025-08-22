@@ -144,7 +144,7 @@ Skills:
 <td width="50%">
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=Computer-Shop-Inventory&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=[Computer-Shop-Inventory](https://github.com/javairiaqasim24/Tech-Store)&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
 
 ### 🛒 **Computer Shop Inventory**
 ```diff
