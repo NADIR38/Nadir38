@@ -201,7 +201,7 @@ Skills:
 <td width="50%">
 <div align="center">
 
-<a href="https://github.com/NADIR38/Agricultural-POS-System" target="_blank">
+<a href="https://github.com/NADIR38/fertilizers" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=Agricultural-POS-System&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
 </a>
 
