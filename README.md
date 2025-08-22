@@ -389,7 +389,7 @@ C++          ████████░░░░░░░░░░░░░░�
 
 <!-- 🖼️ Coding Meme/Fun -->
 <div align="center">
-  <img src="https://i.imgur.com/7k6rEwA.gif" alt="Coding Meme" width="60%" style="margin:18px 0;" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding Meme" width="60%" style="margin:18px 0;" />
 </div>
 
 ---
