@@ -1,4 +1,6 @@
 name: 3D Contribution Calendar
+permissions:
+  contents: write
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -11,8 +13,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: nadir38
+          USERNAME: nadir38
       - run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
