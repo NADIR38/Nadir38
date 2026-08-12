@@ -1,679 +1,310 @@
-# <div align="center">🌟 **NADIR JAMAL** 🌟</div>
-
-<!-- ✅ FIXED Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=🚀+Full-Stack+Developer;💻+Computer+Science+Student;🎯+Backend+%26+Frontend+Enthusiast;✨+Building+Enterprise+Solutions;🌟+ASP.NET+%26+Next.js+Specialist!&font=Orbitron&center=true&width=800&height=80&duration=3000&pause=1000&color=FF6B6B&size=25&weight=700" alt="Typing Animation" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:14264B,100:00FFC6&height=220&section=header&text=NADIR%20JAMAL&fontSize=60&fontColor=00FFC6&fontAlignY=38&desc=Full-Stack%20.NET%20%2B%20Next.js%20Developer&descAlignY=58&descColor=FF2E9A&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00FFC6&center=true&vCenter=true&width=780&height=50&lines=%3E+booting+backend...+ASP.NET+Core+8+%2B+Clean+Architecture;%3E+rendering+frontend...+Next.js+%2B+TypeScript;%3E+status%3A+shipping+enterprise-grade+systems;%3E+currently+debugging+at+2%3A00+AM+%F0%9F%8C%99" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=nadir38&label=PROFILE+VIEWS&color=0A0E27&style=for-the-badge&labelColor=00FFC6" />
+<img src="https://img.shields.io/github/followers/nadir38?label=FOLLOWERS&style=for-the-badge&color=0A0E27&labelColor=FF2E9A" />
+<img src="https://img.shields.io/badge/LOCATION-LAHORE%2C%20PK-0A0E27?style=for-the-badge&labelColor=00FFC6" />
+
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<br/>
 
-<!-- 🖼️ Animated Pixel Coder GIF (Option 4) -->
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="160" />
-</div>
+## `01` — About
 
----
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="35" height="35"> **About Me**
-
-```javascript
-const NADIR = {
-    name: "NADIR JAMAL",
-    title: "Full-Stack Developer & CS Student",
-    location: "Lahore, Pakistan 🇵🇰",
-    education: "BS Computer Science @ UET Lahore 🎓",
-    expertise: [
-        "Enterprise Backend Architecture",
-        "Modern Web Development", 
-        "System Design & Scalability",
-        "Clean Code & Best Practices"
-    ],
-    currentlyLearning: [
-        "Advanced .NET & ASP.NET Core",
-        "Cloud Architecture (Azure)",
-        "Microservices & Distributed Systems",
-        "AI/ML Integration"
-    ],
-    currentProjects: [
-        "🎓 Student Productivity OS - AI-Powered Student Dashboard",
-        "📚 SmartSchool - Educational Platform",
-        "🏥 Healthcare Management System"
-    ],
-    philosophy: "Code today, scale tomorrow! Ship quality, iterate fast! 💻✨"
+```ts
+const nadir: Developer = {
+  role: "Full-Stack Developer & CS Student",
+  base: "Lahore, Pakistan 🇵🇰",
+  education: "BS Computer Science @ UET Lahore",
+  backend: ["ASP.NET Core", "Clean Architecture", "CQRS/MediatR", "EF Core"],
+  frontend: ["Next.js", "React", "TypeScript"],
+  data: ["PostgreSQL", "MongoDB"],
+  alsoBuilds: ["WinForms desktop systems"],
+  practice: "freelance — direct outreach, Fiverr, LinkedIn",
+  philosophy: "ship quality → iterate fast → scale tomorrow",
 };
-
-console.log("Welcome to my profile! Let's build something extraordinary! 🌟");
 ```
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NADIR38&label=Profile%20views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/NADIR38?label=Followers&style=for-the-badge&color=FF6B6B" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FF6B6B?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Expertise-.NET%20%26%20Next.js-FF6B6B?style=for-the-badge" alt="Expertise" />
-</div>
-
----
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0/512.gif" alt="🛠" width="35" height="35"> **Tech Arsenal**
-
-<div align="center">
-
-### 💻 **Programming Languages**
-<img src="https://skillicons.dev/icons?i=cs,cpp,python,js,typescript,html,css&theme=dark" />
-
-### 🚀 **Backend & Frameworks** 
-<img src="https://skillicons.dev/icons?i=dotnet,aspnet,nodejs,flask&theme=dark" />
-
-### 🎨 **Frontend Technologies**
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind&theme=dark" />
-
-### 🗄️ **Databases & Tools**
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,git,github,visualstudio,vscode&theme=dark" />
-
-### ⚙️ **Advanced Technologies**
-<img src="https://img.shields.io/badge/SignalR-Real--time-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hangfire-Background%20Jobs-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Entity%20Framework-ORM-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JWT-Authentication-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gemini%20API-AI%20Integration-FF6B6B?style=for-the-badge" />
-
-</div>
-
-<!-- 🖼️ Tech Collage -->
-<div align="center">
-  <img src="https://i.pinimg.com/originals/4e/2b/6b/4e2b6b6f9b7c47b1e2a6b3f7cd9e7b7b.jpg" alt="Tech Collage" width="80%" style="border-radius: 15px; margin: 18px 0;" />
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### 🎨 **Frontend Stack**
-```yaml
-Core Technologies:
-  - HTML5 & CSS3 🌐
-  - JavaScript & TypeScript ⚡
-  - React & Next.js 14 ⚛️
-
-UI Frameworks:
-  - Bootstrap 🎯
-  - Tailwind CSS 🎨
-  - AdminLTE 📊
-
-Specialties:
-  - Responsive Design 📱
-  - Component Architecture 🧩
-  - State Management 🔄
-```
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="40" />
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="40" />
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" />
 
 </td>
-<td valign="top" width="33%">
+<td width="40%" valign="top" align="center">
 
-### ⚙️ **Backend Stack**
-```yaml
-Core Languages:
-  - C# 💎
-  - Python 🐍
-  - C++ ⚡
-
-Frameworks:
-  - ASP.NET Core 8 🚀
-  - ASP.NET MVC 🔧
-  - WinForms 🪟
-
-Architecture:
-  - Clean Architecture 🏗️
-  - Domain-Driven Design 📐
-  - Repository Pattern 📦
-  - Dependency Injection 🔌
-```
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="40" />
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" />
-<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" />
-
-</td>
-<td valign="top" width="33%">
-
-### 🗄️ **Data & DevOps**
-```yaml
-Databases:
-  - MySQL 8 🐬
-  - SQLite 📋
-  - Entity Framework Core 🔗
-
-Advanced Features:
-  - Redis Caching ⚡
-  - Query Optimization 📈
-  - Transaction Management 🔒
-  - Data Validation ✅
-
-Tools & Platforms:
-  - Git & GitHub 🔀
-  - Visual Studio 🖥️
-  - Swagger/OpenAPI 📚
-  - JWT Authentication 🔐
-```
-<img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="40" />
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968369.png" width="40" />
+<img src="https://github-readme-stats.vercel.app/api?username=nadir38&show_icons=true&hide_border=true&theme=synthwave&bg_color=0A0E27&title_color=00FFC6&icon_color=FF2E9A&text_color=E8E8F0&include_all_commits=true&count_private=true" width="100%" />
 
 </td>
 </tr>
 </table>
+
+---
+
+## `02` — Tech Arsenal
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,python,js,ts,html,css&theme=dark" />
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=dotnet,postgres,mongodb,redis&theme=dark" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
+
+**Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,figma&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Clean%20Architecture-0A0E27?style=for-the-badge&labelColor=00FFC6&color=0A0E27" />
+<img src="https://img.shields.io/badge/CQRS%20%2F%20MediatR-0A0E27?style=for-the-badge&labelColor=FF2E9A&color=0A0E27" />
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-0A0E27?style=for-the-badge&labelColor=00FFC6&color=0A0E27" />
+<img src="https://img.shields.io/badge/JWT%20Auth-0A0E27?style=for-the-badge&labelColor=FF2E9A&color=0A0E27" />
+
 </div>
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="35" height="35"> **GitHub Statistics**
+## `03` — Stats & Activity
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NADIR38&show_icons=true&theme=radical&bg_color=0D1117&border_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NADIR38&layout=compact&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B&langs_count=10" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadir38&layout=compact&hide_border=true&theme=synthwave&bg_color=0A0E27&title_color=00FFC6&text_color=E8E8F0&langs_count=8" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nadir38&hide_border=true&theme=highcontrast&background=0A0E27&stroke=00FFC6&ring=FF2E9A&fire=FF2E9A&currStreakLabel=00FFC6&sideLabels=E8E8F0" width="48%" />
+
+<br/><br/>
+
+<sub>**Contribution heatmap**</sub>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadir38&bg_color=0A0E27&color=00FFC6&line=FF2E9A&point=E8E8F0&area=true&area_color=00FFC6&title_color=00FFC6&hide_border=true&custom_title=nadir38's%20Commit%20Activity" width="90%" />
+
 </div>
+
+### 🧊 3D contribution calendar (animated)
 
 <div align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=NADIR38&theme=radical&background=0D1117&border=FF6B6B&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FF6B6B&sideNums=FF6B6B&dates=FFFFFF" />
+<img src="https://raw.githubusercontent.com/nadir38/nadir38/output/profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NADIR38&custom_title=NADIR38's%20Contribution%20Graph&bg_color=0D1117&color=FFFFFF&line=FF6B6B&point=FF6B6B&area=true&area_color=FF6B6B&title_color=FF6B6B&hide_border=true" />
-</div>
+<details>
+<summary><b>⚙️ one-time setup — enable the 3D animated calendar above</b></summary>
 
----
+<br/>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="35" height="35"> **Flagship Projects**
+This graphic is generated by a GitHub Action, not a static badge — it needs to run once against your `nadir38/nadir38` profile repo.
 
-### 🎓 **Student Productivity OS** ⭐ ACTIVE DEVELOPMENT
-<div align="center">
-  <a href="https://github.com/NADIR38/Student-Productivity-OS" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=Student-Productivity-OS&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
-  </a>
-</div>
+1. Create the repo `nadir38/nadir38` if it doesn't exist yet (Settings → it must match your username exactly).
+2. Add `.github/workflows/3d-contrib.yml`:
 
 ```yaml
-🎯 Vision: All-in-one AI-powered student dashboard system
-
-⚙️ Tech Stack:
-  Backend: ASP.NET Core 8 | Clean Architecture | Entity Framework Core
-  Frontend: Next.js 14 | React | TypeScript
-  Database: MySQL 8 | Redis Caching
-  Real-time: SignalR | WebSocket Communication
-  Background Jobs: Hangfire
-  AI Integration: Gemini API
-
-🚀 Features:
-  ✅ Smart Task Manager with deadline tracking
-  ✅ Pomodoro Study Timer with analytics
-  ✅ Notes System with Spaced Repetition Algorithm
-  ✅ GPA Calculator with grade prediction
-  ✅ Intelligent Schedule Generator (AI-powered)
-  ✅ Weak Topic Detection & Analysis
-  ✅ AI Tutor Assistant (Gemini Integration)
-  ✅ Real-time Progress Notifications
-  ✅ Comprehensive Learning Analytics
-
-📊 Architecture:
-  - StudyOS.Domain (Entities, Enums, Core Logic)
-  - StudyOS.Application (Services, DTOs, Business Logic)
-  - StudyOS.Infrastructure (EF Core, Repositories, Jobs, Cache)
-  - StudyOS.API (Controllers, Middleware, SignalR Hubs, Swagger)
-
-🔧 Development Status: Building modular, production-ready system
+name: 3D Contribution Calendar
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: nadir38
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A
+          git commit -m "chore: update 3D contribution graph" || exit 0
+          git push
 ```
+
+3. Run it once manually from the **Actions** tab. The SVGs land in a generated `profile-3d-contrib/` folder and the embed above will start rendering.
+</details>
+
+### 🐍 Contribution snake (animated)
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/nadir38/nadir38/output/github-contribution-grid-snake-dark.svg" width="90%" />
+</div>
+
+<details>
+<summary><b>⚙️ one-time setup — enable the snake animation above</b></summary>
+
+<br/>
+
+Add `.github/workflows/snake.yml` to the same `nadir38/nadir38` repo:
+
+```yaml
+name: Contribution Snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: nadir38
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Run it once from the **Actions** tab and the snake will start eating your commit graph.
+</details>
 
 ---
 
+## `04` — Achievements
+
 <div align="center">
-<table>
+<img src="https://github-profile-trophy.vercel.app/?username=nadir38&theme=darkhub&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" />
+</div>
+
+---
+
+## `05` — Flagship Projects
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 <div align="center">
 
-### 🏆 **ITEC Management System**
-<a href="https://github.com/NADIR38/ItecWebApp" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=ItecWebApp&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
-</a>
+### 🎓 Student Productivity OS
+<sub>⭐ Active Development</sub>
 
-```diff
-+ Event & Competition Management Platform
-+ Multi-event registration system  
-+ Real-time scheduling & results tracking
-+ Advanced admin dashboard with analytics
-+ Role-based access control
-+ Built with ASP.NET Core MVC
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nadir38&repo=Student-Productivity-OS&theme=synthwave&bg_color=0A0E27&title_color=00FFC6&text_color=E8E8F0&border_color=FF2E9A" width="100%" />
 
-Tech Stack: C#, ASP.NET MVC, MySQL, Bootstrap, JavaScript
-```
+AI-powered student dashboard — task manager, Pomodoro timer, spaced-repetition notes, GPA prediction, and a Gemini-backed AI tutor, on ASP.NET Core 8 Clean Architecture + Next.js 14, with SignalR real-time updates and Hangfire background jobs.
 
-**Highlights:**  
-✨ Architected robust backend with separation of concerns  
-✨ Designed optimized MySQL database schema  
-✨ Implemented admin analytics & reporting modules  
-✨ Built role-based authentication & authorization  
-✨ Real-time event status updates & notifications
+`ASP.NET Core 8` `Next.js` `EF Core` `SignalR` `Hangfire` `Gemini API`
 
 </div>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 <div align="center">
 
-### 🏥 **Healthcare Management System**
-<a href="https://github.com/NADIR38/HealtCare" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=HealtCare&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
-</a>
+### 🏥 Healthcare Management System
 
-```diff
-+ Patient Management System
-+ Appointment scheduling & management
-+ Medical records digitization
-+ Doctor-patient portal system
-+ Prescription management
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nadir38&repo=HealtCare&theme=synthwave&bg_color=0A0E27&title_color=00FFC6&text_color=E8E8F0&border_color=FF2E9A" width="100%" />
 
-Tech Stack: .NET, Next.js, MySQL, Modern Web Architecture
-```
+Full-stack patient management platform — appointment scheduling, digitized medical records, a doctor-patient portal, and prescription management.
 
-**Highlights:**  
-✨ Full-stack enterprise solution  
-✨ Secure patient data handling  
-✨ Real-time appointment notifications  
-✨ Integrated prescription system  
-✨ Analytics & patient history tracking
+`.NET` `Next.js` `MySQL`
 
 </div>
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 <div align="center">
 
-### 📚 **SmartSchool**
-<a href="https://github.com/NADIR38/smartschool" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=smartschool&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
-</a>
+### 🏆 ITEC Management System
 
-```diff
-+ Educational Platform for Schools
-+ Student information management
-+ Grade tracking & reporting
-+ Parent-teacher communication
-+ Online class scheduling
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nadir38&repo=ItecWebApp&theme=synthwave&bg_color=0A0E27&title_color=00FFC6&text_color=E8E8F0&border_color=FF2E9A" width="100%" />
 
-Tech Stack: ASP.NET Core, MySQL, Bootstrap
-```
+Event & competition management platform with multi-event registration, real-time scheduling and results, and a role-based admin dashboard.
 
-**Highlights:**  
-✨ Comprehensive school management solution  
-✨ Multi-role user system  
-✨ Real-time grade updates  
-✨ Communication hub for stakeholders  
-✨ Automated reporting & analytics
+`C#` `ASP.NET MVC` `MySQL` `Bootstrap`
 
 </div>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 <div align="center">
 
-### 🎯 **Car Rental System**
-<a href="https://github.com/NADIR38/CarRentalSystem" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=CarRentalSystem&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
-</a>
+### 📚 SmartSchool
 
-```diff
-+ Full-Stack E-commerce Platform
-+ Vehicle catalog & availability
-+ Booking system with validation
-+ Payment processing
-+ User profile management
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nadir38&repo=smartschool&theme=synthwave&bg_color=0A0E27&title_color=00FFC6&text_color=E8E8F0&border_color=FF2E9A" width="100%" />
 
-Tech Stack: ASP.NET Core API, React, MySQL
-```
+Multi-role school management platform — student records, grade tracking, and a parent-teacher communication hub.
 
-**Highlights:**  
-✨ Modern MERN-style full-stack architecture  
-✨ Real-time availability updates  
-✨ Secure booking transactions  
-✨ Responsive design across devices  
-✨ Admin dashboard for fleet management
+`ASP.NET Core` `MySQL` `Bootstrap`
 
 </div>
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 <div align="center">
 
-### 🖥️ **Study Organizer**
-<a href="https://github.com/NADIR38/StudyOrganizer" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=StudyOrganizer&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
-</a>
+### 🚗 Car Rental System
 
-```diff
-+ Desktop Application for File Organization
-+ Intelligent file categorization
-+ Subject-based folder structure
-+ Drag & drop functionality
-+ Search & tagging system
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nadir38&repo=CarRentalSystem&theme=synthwave&bg_color=0A0E27&title_color=00FFC6&text_color=E8E8F0&border_color=FF2E9A" width="100%" />
 
-Tech Stack: C#, WinForms, File System APIs
-```
+Full-stack rental platform with live vehicle availability, validated booking flow, and payment processing.
 
-**Highlights:**  
-✨ Intuitive Windows desktop app  
-✨ Automated file sorting  
-✨ Custom tagging & search  
-✨ Keyboard shortcuts  
-✨ File preview functionality
+`ASP.NET Core API` `React` `MySQL`
 
 </div>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 <div align="center">
 
-### 🌾 **Agricultural POS System**
-<a href="https://github.com/NADIR38/fertilizer" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NADIR38&repo=fertilizer&theme=radical&bg_color=0D1117&border_color=FF6B6B&text_color=FFFFFF&title_color=FF6B6B" />
-</a>
+### 🌾 Agricultural POS System
 
-```diff
-+ Fertilizer & Poultry Management
-+ Dual-platform (Web & Desktop)
-+ Inventory & stock tracking
-+ Customer management system
-+ Sales & revenue analytics
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nadir38&repo=fertilizer&theme=synthwave&bg_color=0A0E27&title_color=00FFC6&text_color=E8E8F0&border_color=FF2E9A" width="100%" />
 
-Tech Stack: C#, Python, MySQL, ASP.NET
-```
+Dual-platform (web + desktop) inventory and sales system for fertilizer and poultry retail, with multi-location stock tracking.
 
-**Highlights:**  
-✨ Comprehensive agricultural solution  
-✨ Multi-location support  
-✨ Real-time inventory tracking  
-✨ Detailed sales reports  
-✨ Customer purchase history
+`C#` `Python` `ASP.NET` `MySQL`
 
 </div>
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="35" height="35"> **GitHub Trophies**
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NADIR38&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
-
----
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="35" height="35"> **Key Competencies**
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🏗️ **Architecture**
-- Clean Architecture
-- Domain-Driven Design
-- Microservices Concepts
-- Design Patterns
-- SOLID Principles
-
-</td>
-<td align="center" width="25%">
-
-### 🔐 **Security**
-- JWT Authentication
-- Role-Based Access Control
-- Data Encryption
-- SQL Injection Prevention
-- Secure Password Hashing
-
-</td>
-<td align="center" width="25%">
-
-### ⚡ **Performance**
-- Database Optimization
-- Caching Strategies
-- Query Performance
-- Async/Await Patterns
-- Load Balancing
-
-</td>
-<td align="center" width="25%">
-
-### 📊 **Database Design**
-- Schema Optimization
-- Indexing Strategies
-- Normalization
-- Relationships & Constraints
-- Transaction Management
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="35" height="35"> **2024-2025 Goals & Roadmap**
-
-<div align="center">
-
-```python
-class DeveloperGoals:
-    def __init__(self):
-        self.current_year = 2025
-        self.goals = {
-            "Q1": [
-                "🎓 Complete Student Productivity OS MVP",
-                "☁️ Deploy on Azure with CI/CD",
-                "🤖 Integrate advanced AI features"
-            ],
-            "Q2": [
-                "⚛️ Master React & Next.js 14 advanced patterns",
-                "🏗️ Build microservices architecture example",
-                "📱 Create mobile-responsive solutions"
-            ],
-            "Q3": [
-                "🌐 Contribute to high-impact open-source",
-                "🚀 Learn cloud deployment (Azure/AWS)",
-                "📚 Create technical blog & tutorials"
-            ],
-            "Q4": [
-                "🤖 Explore AI/ML integration projects",
-                "🔐 Master system design & scalability",
-                "💼 Build portfolio projects for interviews"
-            ]
-        }
-    
-    def display_roadmap(self):
-        print(f"🎯 Roadmap for {self.current_year}:")
-        for quarter, tasks in self.goals.items():
-            print(f"\n{quarter}:")
-            for task in tasks:
-                print(f"  {task}")
-
-roadmap = DeveloperGoals()
-roadmap.display_roadmap()
-```
-
-</div>
-
----
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" alt="📈" width="35" height="35"> **Development Breakdown**
+## `06` — Language Breakdown
 
 ```text
-C#           ████████████████████████████████░░   85% 
+C#           ████████████████████████████████░░   85%
 JavaScript   ██████████████████████░░░░░░░░░░░░   60%
 TypeScript   ██████████████████░░░░░░░░░░░░░░░░   55%
-Python       ███████████████░░░░░░░░░░░░░░░░░░   50%
-SQL/MySQL    ███████████████░░░░░░░░░░░░░░░░░░   50%
-HTML/CSS     █████████████░░░░░░░░░░░░░░░░░░░░   45%
-C++          ██████████░░░░░░░░░░░░░░░░░░░░░░░   30%
+Python       ███████████████░░░░░░░░░░░░░░░░░░░░   50%
+SQL          ███████████████░░░░░░░░░░░░░░░░░░░░   50%
+HTML/CSS     █████████████░░░░░░░░░░░░░░░░░░░░░░   45%
+C++          ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░   30%
 ```
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="35" height="35"> **Random Facts & Interests**
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🎮 **Hobbies & Lifestyle**
-```json
-{
-  "coding": "24/7 passion ⚡",
-  "gaming": "Strategy & RPG games 🎲",
-  "learning": "New tech stack every month 📚",
-  "music": "Lo-fi beats while debugging 🎵",
-  "coffee": "Essential fuel for productivity ☕"
-}
-```
-
-**Why I Code:**
-- 🧩 Problem solving is an art
-- 🚀 Building solutions that matter
-- 🌍 Making a positive impact
-- 📈 Continuous growth & learning
-
-<img src="https://cdn-icons-png.flaticon.com/512/3062/3062634.png" width="36" title="Gaming" />
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="36" title="Coding" />
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="36" title="Learning" />
-<img src="https://cdn-icons-png.flaticon.com/512/727/727245.png" width="36" title="Music" />
-
-</td>
-<td align="center" width="50%">
-
-### 🧠 **Tech Interests & Aspirations**
-```json
-{
-  "AI_ML": "Building intelligent systems 🤖",
-  "cloud_computing": "Scaling globally ☁️",
-  "game_dev": "Dream project in progress 🎮", 
-  "automation": "Work smarter, not harder 🔧",
-  "open_source": "Contributing to the community 🌱"
-}
-```
-
-**Developer Mantras:**
-- 💻 Write code as art, not just logic
-- 🐛 Every bug teaches something new
-- 🚀 Ship fast, iterate faster
-- 🤝 Collaborate > Compete
-- 🌟 Make tomorrow better than today
-
-<img src="https://cdn-icons-png.flaticon.com/512/4712/4712038.png" width="36" title="AI" />
-<img src="https://cdn-icons-png.flaticon.com/512/4144/4144899.png" width="36" title="Cloud" />
-<img src="https://cdn-icons-png.flaticon.com/512/853/853987.png" width="36" title="Game Dev" />
-<img src="https://cdn-icons-png.flaticon.com/512/3103/3103453.png" width="36" title="Automation" />
-
-</td>
-</tr>
-</table>
-</div>
+## `07` — Let's Connect
 
 <div align="center">
 
-| 🎯 | **Developer Confessions** |
-|:---:|:---|
-| ☕ | I run on coffee and debugging sessions |
-| 🌙 | Night owl - best code happens at 2 AM |
-| 🐛 | I've made peace with bugs, they're just features waiting to be understood |
-| 📱 | Phone's full of coding podcasts and tech articles |
-| 🎨 | Code is art, and I'm trying to paint a masterpiece |
-| 🔍 | Stack Overflow is my best friend (don't tell anyone) |
-| ⏱️ | Estimated time: 5 mins \| Actual time: 5 hours |
-| 🎯 | The best code is the code that works AND can be maintained |
+[![GitHub](https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=00FFC6)](https://github.com/nadir38)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00FFC6)](https://www.linkedin.com/in/nadir-jamal-6b5833370/)
+[![Gmail](https://img.shields.io/badge/Gmail-0A0E27?style=for-the-badge&logo=gmail&logoColor=FF2E9A)](mailto:jamalnadir7778@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0E27?style=for-the-badge&logo=todoist&logoColor=FF2E9A)](https://685b7dbaacf12c1d1241cc28--loquacious-pika-849dea.netlify.app/)
 
-</div>
+<br/>
 
----
+**Open to:** freelance full-stack work · backend architecture consulting · technical collaboration
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="35" height="35"> **Let's Connect & Collaborate!**
-
-<div align="center">
-
-**I'm always open to:**
-- 💼 Collaboration on interesting projects
-- 🤝 Mentoring & knowledge sharing
-- 💬 Technical discussions & code reviews
-- 🚀 Contributing to impactful initiatives
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=FF6B6B)](https://github.com/NADIR38)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=FF6B6B)](https://www.linkedin.com/in/nadir-jamal-6b5833370/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF6B6B)](mailto:jamalnadir7778@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&color=FF6B6B)](https://685b7dbaacf12c1d1241cc28--loquacious-pika-849dea.netlify.app/)
-
-### 💬 *"In code we trust, in bugs we debug, in deployments we pray!"* 🐛✨
-
-<!-- 🖼️ Social Banner -->
-<img src="https://user-images.githubusercontent.com/73097560/115836994-2a5a5d80-a44b-11eb-8f7e-2d7e9c1c0e9c.gif" width="80%" style="margin:15px 0;" />
-
-</div>
-
----
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4cb/512.gif" alt="📋" width="35" height="35"> **My Development Philosophy**
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║                 THE DEVELOPER'S MANIFESTO                      ║
-╚════════════════════════════════════════════════════════════════╝
-
-✨ Write code for humans first, machines second
-🏗️ Build systems that scale with business needs
-🔐 Security & performance are not optional features
-📚 Document your code like your future self will curse you
-🧪 Test early, test often, test thoroughly
-🤝 Collaborate more, blame less
-🚀 Ship with confidence, iterate with speed
-🌱 Grow, learn, adapt - the tech world waits for no one
-💡 Turn problems into opportunities
-🎯 Always optimize for maintainability first
-```
-
-</div>
-
----
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="35" height="35"> **Challenge Me**
-
-<div align="center">
-
-I'm open to:
-- 🏆 **Coding challenges** - LeetCode, HackerRank, Project Euler
-- 📚 **Learning partners** - Study groups, tech discussions
-- 🚀 **Open-source contributions** - PRs to interesting projects
-- 💼 **Freelance projects** - Full-stack development, consulting
-- 🎓 **Mentorship** - Helping junior developers grow
-
-**Let's build something that matters! 🌟**
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 **"Code is poetry, debugging is an adventure, and shipping is victory!"** 🌟
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
-
-<sub>💖 **From [NADIR38](https://github.com/NADIR38) crafted with lots of ☕, 💻, and 🚀**</sub>
-
-**Last Updated: May 2025** | **Actively Developing** 🔄
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC6,50:14264B,100:0A0E27&height=120&section=footer" width="100%" />
 
 </div>
